@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<records>
+  <person>
+    <name>Alice Wonderland</name>
+    <contact>
+      <email>alice@example.com</email>
+      <phone>
+        <home>123-456-7890</home>
+        <work>987-654-3210</work>
+      </phone>
+    </contact>
+    <address>
+      <street>Main Street</street>
+      <city>Wonderland</city>
+    </address>
+    <description><![CDATA[Alice is a fictional character and the main protagonist of <b>Lewis Carroll's</b> children's novel <i>Alice's Adventures in Wonderland</i>!]]></description>
+  </person>
+  <person>
+    <name>Bob Builder</name>
+    <contact>
+      <email>bob@example.com</email>
+      <phone>
+        <home>555-123-4567</home>
+        <work>555-987-6543</work>
+      </phone>
+    </contact>
+    <address>
+      <street>Construction Avenue</street>
+      <city>Builderburg</city>
+    </address>
+    <description><![CDATA[Bob is <a> builder with </a> passion for creating amazing structures.]]></description>
+  </person>
+  <person>
+    <name>Charlie Coder</name>
+    <contact>
+      <email>charlie@example.com</email>
+      <phone>
+        <home>111-222-3333</home>
+        <work>444-555-6666</work>
+      </phone>
+    </contact>
+    <address>
+      <street>Code Street</street>
+      <city>Coderville</city>
+    </address>
+    <description><![CDATA[Charlie is a skilled coder who loves to create innovative software.]]></description>
+  </person>
+  <person>
+    <name>Diana Designer</name>
+    <contact>
+      <email>diana@example.com</email>
+      <phone>
+        <home>777-888-9999</home>
+        <work>123-456-7890</work>
+      </phone>
+    </contact>
+    <address>
+      <street>Design Lane</street>
+      <city>Design City</city>
+    </address>
+    <description><![CDATA[Diana is a creative designer with an eye for aesthetics.]]></description>
+  </person>
+  <person>
+    <name>Eve Explorer</name>
+    <contact>
+      <email>eve@example.com</email>
+      <phone>
+        <home>999-888-7777</home>
+        <work>111-222-3333</work>
+      </phone>
+    </contact>
+    <address>
+      <street>Adventure Avenue</street>
+      <city>Explorerville</city>
+    </address>
+    <description><![CDATA[Eve is an adventurous explorer, always seeking new horizons.]]></description>
+  </person>
+  <person>
+    <name>Velko Milanov</name>
+    <contact>
+      <email>vmilanov@tu-sofia.bg</email>
+      <phone>
+        <home>088815612</home>
+        <work>048865151</work>
+      </phone>
+    </contact>
+    <address>
+      <street>Student city</street>
+      <city>Sofia</city>
+    </address>
+    <description><![CDATA[Student at TU Sofia!]]></description>
+  </person>
+  <person>
+    <name>Dejan Pavlovski</name>
+    <contact>
+      <email>dpavlovski@tu-sofia.bg</email>
+      <phone>
+        <home>088488812</home>
+        <work>088488812</work>
+      </phone>
+    </contact>
+    <address>
+      <street>Student city</street>
+      <city>Sofia</city>
+    </address>
+    <description><![CDATA[My friend]]></description>
+  </person>
+  <person>
+    <name>test</name>
+    <contact>
+      <email>test</email>
+      <phone>
+        <home>test</home>
+        <work>test</work>
+      </phone>
+    </contact>
+    <address>
+      <street>test</street>
+      <city>test</city>
+    </address>
+    <description><![CDATA[test]]></description>
+  </person>
+</records>
